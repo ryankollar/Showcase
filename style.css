@@ -90,7 +90,7 @@ html, body {
   gap: 0;
   }
 .projectbox1, .projectbox2 {
-  height: 200px;
+  height: auto;
   }
 .projectbox1 {
   width: 30%;
