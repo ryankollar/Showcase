@@ -2,5 +2,5 @@ function ProjectPage() {
   window.location.href = "Projects.html";
 }
 function HomePage() {
-  window.location.href = "Website.html";
+  window.location.href = "index.html";
 }
